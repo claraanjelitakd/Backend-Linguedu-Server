@@ -25,11 +25,11 @@ class DatabaseSeeder extends Seeder
         MateriSeeder::class,
         RegistrasiKursusSeeder::class,
         KuisSeeder::class,
-        SoalKuisSeeder::class,
-        HasilTesSeeder::class,
-        UjiSertifikasiSeeder::class,
-        SoalSertifikasiSeeder::class,
-        SertifikatSeeder::class,
+        // SoalKuisSeeder::class,
+        // HasilTesSeeder::class,
+        // UjiSertifikasiSeeder::class,
+        // SoalSertifikasiSeeder::class,
+        // SertifikatSeeder::class,
     ]);
 }
 
